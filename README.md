@@ -41,3 +41,12 @@
 * [Почему конфликты в Git обсуждают всем миром, а сравнение/объединение в 1С это нормально?](docs/PART_1.md)
 * [Программист без интернета - это уже CI](docs/PART_2.md)
 * [Перестаньте рекомендовать Gitflow](docs/PART_3.md)
+* [Простой тест, есть у вас CI или нет](docs/PART_4.md)
+
+<hr>
+
+## Полезные ссылки
+
+* https://www.scaledagileframework.com/continuous-integration/
+* https://services.google.com/fh/files/misc/state-of-devops-2019.pdf
+* https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf
