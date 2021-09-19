@@ -51,6 +51,7 @@
 
 ## Полезные ссылки
 
+* [Continuous Integration как практика, а не Jenkins. Андрей Александров](https://habr.com/ru/post/518406/)
 * https://www.scaledagileframework.com/continuous-integration/
 * https://services.google.com/fh/files/misc/state-of-devops-2019.pdf
 * https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf
